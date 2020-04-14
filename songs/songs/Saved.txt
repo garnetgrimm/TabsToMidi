@@ -1,0 +1,168 @@
+(The song is finger picked but if you're going to strum this is how the chords should be played.)
+
+[Chords]
+  D#m7   F#    A#m7   G#    F#5    Fm7   A#m/F
+e|-x--| |-x-| |-x-| |-x-| |-x--| |-x--| |-x--|
+B|-x--| |-2-| |-x-| |-4-| |-11-| |-13-| |-14-|
+G|-11-| |-3-| |-6-| |-5-| |-11-| |-13-| |-15-|
+D|-11-| |-4-| |-6-| |-6-| |-11-| |-13-| |-15-|
+A|-9--| |-x-| |-x-| |-x-| |-9--| |-x--| |-x--|
+E|-11-| |-2-| |-6-| |-4-| |-x--| |-13-| |-13-|
+
+[Intro]
+  D#m7               F#                A#m7             G#
+e|------x--------x--|-----x--------x--|-----x-------x--|-----x-------x--|
+B|------x--------x--|---2-x--2-----x--|-----x-------x--|-----x-------x--|
+G|---11-x--11----x--|---3-x--3-----x--|---6-x--6----x--|---5-x--5----x--|
+D|---11-x--11----x--|---4-x--4-----x--|---6-x--6----x--|---6-x--6----x--|
+A|------x--------x--|-----x--------x--|-----x-------x--|-----x-------x--|
+E|11----x--------x--|2----x--------x--|6----x-------x--|4----x-------x--|  
+        S        S        S        S        S       S        S       S
+
+[Verse]
+  D#m7               F#                A#m7             G#
+e|------x--------x--|-----x--------x--|-----x-------x--|-----x-------x--|
+B|------x--------x--|---2-x--2-----x--|-----x-------x--|-----x-------x--|
+G|---11-x--11----x--|---3-x--3-----x--|---6-x--6----x--|---5-x--5----x--|
+D|---11-x--11----x--|---4-x--4-----x--|---6-x--6----x--|---6-x--6----x--|
+A|------x--------x--|-----x--------x--|-----x-------x--|-----x-------x--|
+E|11----x--------x--|2----x--------x--|6----x-------x--|4----x-------x--|   (x2)
+        S        S        S        S        S       S        S       S
+
+[Chorus]
+  D#m7                F#5                   A#m7             G#
+e|------x---------x--|-------x---------x--|-----x-------x--|4--4-x--4---4-x--|
+B|11-11-x--11--11-x--|11--11-x--11--11-x--|6--6-x--6--6-x--|4--4-x--4---4-x--|
+G|11-11-x--11--11-x--|11--11-x--11--11-x--|6--6-x--6--6-x--|5--5-x--5---5-x--|
+D|11-11-x--11--11-x--|11--11-x--11--11-x--|6--6-x--6--6-x--|6--6-x--6---6-x--|
+A|------x---------x--|9------x--9------x--|-----x-------x--|-----x--------x--|
+E|11----x--11-----x--|-------x---------x--|6----x--6----x--|4----x--4-----x--|
+        S         S          S         S        S       S        S        S
+
+  D#m7                F#               A#m7             G#
+e|------x---------x--|-----x-------x--|-----x-------x--|4--4-x--4---4-x--|
+B|11-11-x--11--11-x--|2--2-x--2--2-x--|6--6-x--6--6-x--|4--4-x--4---4-x--|
+G|11-11-x--11--11-x--|3--3-x--3--3-x--|6--6-x--6--6-x--|5--5-x--5---5-x--|
+D|11-11-x--11--11-x--|4--4-x--4--4-x--|6--6-x--6--6-x--|6--6-x--6---6-x--|
+A|------x---------x--|-----x-------x--|-----x-------x--|-----x--------x--|
+E|11----x--11-----x--|2----x--2----x--|6----x--6----x--|4----x--4-----x--|   
+        S         S        S       S        S       S        S        S   
+ 
+[Bridge] 
+(strumming is optional here)
+  D#m7                F#5                 Fm7                   A#m/F
+e|------x---------x--|------x---------x--|------x-----------x--|------x-----------x--|
+B|------x---------x--|------x---------x--|13-13-x--13----13-x--|14-14-x--14----14-x--|
+G|11-11-x--11--11-x--|11-11-x--11--11-x--|13-13-x--13----13-x--|15-15-x--15----15-x--|
+G|11-11-x--11--11-x--|11-11-x--11--11-x--|13-13-x--13----13-x--|15-15-x--15----15-x--|
+A|------x---------x--|9-----x--9------x--|------x-----------x--|------x-----------x--|
+E|11----x--11-----x--|------x---------x--|13----x--13-------x--|13----x--13-------x--|
+        S         S         S         S         S           S         S           S
+  D#m7                F#5                 Fm7                   D#m7
+e|------x---------x--|------x---------x--|------x-----------x--|---------------------|
+B|------x---------x--|------x---------x--|13-13-x--13----13-x--|11-------------------|
+G|11-11-x--11--11-x--|11-11-x--11--11-x--|13-13-x--13----13-x--|11-------------------|
+G|11-11-x--11--11-x--|11-11-x--11--11-x--|13-13-x--13----13-x--|11-------------------|
+A|------x---------x--|9-----x--9------x--|------x-----------x--|9--------------------|
+E|11----x--11-----x--|------x---------x--|13----x--13-------x--|11-------------------| 
+        S         S         S         S         S           S                    
+
+[Intro/Verse] 
+   D#m7                             F#         
+The hard part always seems to last forever
+  A#m7                             G#
+Sometimes I forget that we aren't together
+ D#m7                           F#
+Deep down in my heart, I hope you're doing alright 
+         A#m7                          G#
+But from time to time I often think of why you aren't mine
+
+[Chorus]
+                   D#m7
+But I'll keep your number saved                                            
+                                           F#5
+Cause I hope one day you'll get the sense to call me
+             A#m7
+I'm hoping that you'll say
+                                  G#
+You're missing me the way I'm missing you      
+                  D#m7
+So I'll keep your number saved
+                                         F#
+Cause I hope one day I'll get the pride to call you
+                 A#m7
+To tell you that no one else
+                                    G#
+Is gonna hold you down the way that I do
+
+[Verse]
+     D#m7                            F#
+Now, I can't say I'll be alright without you
+    A#m7                        G#
+And I can't say that I haven't tried to
+     D#m7                                  F#
+But, all your stuff is gone I erased all the pictures from my phone
+          A#m7                 G#
+Of me and you  Heres what I'll do
+
+[Chorus]
+               D#m7
+I'll keep your number saved                                            
+                                           F#5
+Cause I hope one day you'll get the sense to call me 
+             A#m7
+I'm hoping that you'll say
+                                  G#
+You're missing me the way I'm missing you         
+                  D#m7
+So I'll keep your number saved
+                                         F#
+Cause I hope one day I'll get the pride to call you
+                 A#m7
+To tell you that no one else
+                                    G#
+Is gonna hold you down the way that I do
+
+[Bridge]
+  D#m7                              F#5
+I hope you think of all the times we shared
+  Fm7                           A#m/F
+I hope you'll finally realize I was the only one who cared
+     D#m7                              F#5
+It's crazy how this love thing seems unfair
+    Fm7                            D#m7
+You won't find a love like mine anywhere
+
+[Chorus]
+                   D#m7
+But I'll keep your number saved                                             
+                                           F#5
+Cause I hope one day you'll get the sense to call me  
+             A#m7
+I'm hoping that you'll say
+                                  G#
+You're missing me the way I'm missing you        
+                  D#m7
+So I'll keep your number saved
+                                         F#
+Cause I hope one day I'll get the pride to call you
+                 A#m7
+To tell you that no one else
+                                    G#
+Is gonna hold you down the way that I do
+                   D#m7
+But I'll keep your number saved                                            
+                                           F#5
+Cause I hope one day you'll get the sense to call me  
+             A#m7
+I'm hoping that you'll say
+                                  G#
+You're missing me the way I'm missing you       
+                  D#m7
+So I'll keep your number saved
+                                         F#(one Strum)
+Cause I hope one day I'll get the pride to call you
+            A#m7(one Strum)        G#(one Strum)
+To tell you that I'm finally over you
+                 F#(one strum)
+I'm finally over you

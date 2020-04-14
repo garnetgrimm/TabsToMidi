@@ -1,0 +1,9 @@
+This is the intro/meledy part played on piano throughout the song. It repeats in all the interludes
+ 
+[Intro] 
+e|---5---9--4--5--2--------|
+B|-------------------------|
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------| 
